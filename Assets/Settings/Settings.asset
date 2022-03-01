@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ea222b713a9e459caf3ca327745aa40, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  depth: 5
+  useIterativeDeepening: 1
+  useTranspositionTable: 1
+  useThreading: 1
+  useFixedDepthSearch: 0
+  searchTimeMillis: 200
+  endlessSearchMode: 0
+  clearTTEachMove: 1
+  useBook: 1
+  book: {fileID: 4900000, guid: 7473c7aa9594747efb1706cc9c268ef3, type: 3}
+  maxBookPly: 10
+  promotionsToSearch: 2
+  diagnostics:
+    lastCompletedDepth: 4
+    moveVal: e6
+    move: e7-e6
+    eval: -70
+    isBook: 0
+    numPositionsEvaluated: 24619
+  audios:
+  - {fileID: 8300000, guid: f150009c57d4a4441a6044c7211eb7b5, type: 3}
+  - {fileID: 8300000, guid: 4a1907457be6f364687bc4afa114f0c3, type: 3}
+  - {fileID: 8300000, guid: 951a3a4e52a10064dabec54af010a329, type: 3}
+  - {fileID: 8300000, guid: 46bd00102b860f34f924da8262af1b72, type: 3}
+  - {fileID: 8300000, guid: a3cc00f4a9dce4f4cbdd76ab7b25f85d, type: 3}
+  - {fileID: 8300000, guid: 44f850333183aff43a4fbdf5d5ce2c5b, type: 3}

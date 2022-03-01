@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 90f44db1ca1a7cb4498d8de72d8865ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5341164582703127502
+    second: Xadrez_0
+  - first:
+      213: -7778958340014877029
+    second: Xadrez_1
+  - first:
+      213: -3767418413511772612
+    second: Xadrez_2
+  - first:
+      213: -4483547099336008216
+    second: Xadrez_3
+  - first:
+      213: 6106340419168696848
+    second: Xadrez_4
+  - first:
+      213: -6477468193656409271
+    second: Xadrez_5
+  - first:
+      213: -3156609099469616878
+    second: Xadrez_6
+  - first:
+      213: -5633812167396835264
+    second: Xadrez_7
+  - first:
+      213: -4547915155921971240
+    second: Xadrez_8
+  - first:
+      213: 3997740875063110540
+    second: Xadrez_9
+  - first:
+      213: -5914045874646274184
+    second: Xadrez_10
+  - first:
+      213: 7492429000329266118
+    second: Xadrez_11
+  - first:
+      213: -8960432711976378390
+    second: Xadrez_12
+  - first:
+      213: 4806023082048519925
+    second: Xadrez_13
+  - first:
+      213: -1790177243377401554
+    second: Xadrez_14
+  - first:
+      213: -9014123041084483782
+    second: Xadrez_15
+  - first:
+      213: 7726070209354506284
+    second: Xadrez_16
+  - first:
+      213: 5271621418914654737
+    second: Xadrez_17
+  - first:
+      213: -5103842651772690098
+    second: Xadrez_18
+  - first:
+      213: -475438993795685531
+    second: Xadrez_19
+  - first:
+      213: -5413450751169337171
+    second: Xadrez_20
+  - first:
+      213: 3862561744907889133
+    second: Xadrez_21
+  - first:
+      213: 617323164501036425
+    second: Xadrez_22
+  - first:
+      213: 7640543870190398694
+    second: Xadrez_23
+  - first:
+      213: -7554376176477492489
+    second: Xadrez_24
+  - first:
+      213: -6463606036856883346
+    second: Xadrez_25
+  - first:
+      213: -4420738811127766203
+    second: Xadrez_26
+  - first:
+      213: -4497378147995600130
+    second: Xadrez_27
+  - first:
+      213: -616446944454832991
+    second: Xadrez_28
+  - first:
+      213: -8718442732484224442
+    second: Xadrez_29
+  - first:
+      213: 4290844173123376341
+    second: Xadrez_30
+  - first:
+      213: 8451476249575811428
+    second: Xadrez_31
+  - first:
+      213: 7761702950168966294
+    second: Xadrez_32
+  - first:
+      213: -259890297662491075
+    second: Xadrez_33
+  - first:
+      213: 3019043321988111075
+    second: Xadrez_34
+  - first:
+      213: -5124590359823065721
+    second: Xadrez_35
+  - first:
+      213: -7229292603178473329
+    second: Xadrez_36
+  - first:
+      213: 2183164751133183573
+    second: Xadrez_37
+  - first:
+      213: 7092517177943697097
+    second: Xadrez_38
+  - first:
+      213: 2458907463374339048
+    second: Xadrez_39
+  - first:
+      213: -6427430925320921168
+    second: Xadrez_40
+  - first:
+      213: 6769056013622785179
+    second: Xadrez_41
+  - first:
+      213: 6689179612311565139
+    second: Xadrez_42
+  - first:
+      213: -4785797555595632765
+    second: Xadrez_43
+  - first:
+      213: -8351369618744637454
+    second: Xadrez_44
+  - first:
+      213: -7842133716113494292
+    second: Xadrez_45
+  - first:
+      213: -5886077419548007430
+    second: Xadrez_46
+  - first:
+      213: -8033531864425784741
+    second: Xadrez_47
+  - first:
+      213: -1013933315179332356
+    second: Xadrez_48
+  - first:
+      213: -8478979555188483963
+    second: Xadrez_49
+  - first:
+      213: 2518871605029540501
+    second: Xadrez_50
+  - first:
+      213: -7909850435798344261
+    second: Xadrez_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xadrez_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 142.5
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbdae6a3e0af1a40800000000000000
+      internalID: 5341164582703127502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xadrez_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 144
+        width: 151
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96d9dcba969b0490800000000000000
+      internalID: -7778958340014877029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xadrez_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 144
+        width: 142.5
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c367d5ed9e077bbc0800000000000000
+      internalID: -3767418413511772612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xadrez_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 144
+        width: 152
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed18520bad37c1c0800000000000000
+      internalID: -4483547099336008216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xadrez_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 144
+        width: 152
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01af82a22441eb450800000000000000
+      internalID: 6106340419168696848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xadrez_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 133
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943f7393ff86b16a0800000000000000
+      internalID: -6477468193656409271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xadrez_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 142.5
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219095b9fb87134d0800000000000000
+      internalID: -3156609099469616878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xadrez_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 142.5
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040c907deada0d1b0800000000000000
+      internalID: -5633812167396835264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xadrez_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 142.5
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7d7a6f24f82e0c0800000000000000
+      internalID: -4547915155921971240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xadrez_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 152
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b223a1524da7730800000000000000
+      internalID: 3997740875063110540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xadrez_10
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 152
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f28586c961deda0800000000000000
+      internalID: -5914045874646274184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xadrez_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 133
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3067daa747af760800000000000000
+      internalID: 7492429000329266118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
