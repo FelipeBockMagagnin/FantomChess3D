@@ -25,12 +25,12 @@ MonoBehaviour:
   maxBookPly: 10
   promotionsToSearch: 2
   diagnostics:
-    lastCompletedDepth: 4
-    moveVal: e6
-    move: e7-e6
-    eval: -70
+    lastCompletedDepth: 7
+    moveVal: Rd4
+    move: d2-d4
+    eval: -269
     isBook: 0
-    numPositionsEvaluated: 24619
+    numPositionsEvaluated: 60035
   audios:
   - {fileID: 8300000, guid: f150009c57d4a4441a6044c7211eb7b5, type: 3}
   - {fileID: 8300000, guid: 4a1907457be6f364687bc4afa114f0c3, type: 3}

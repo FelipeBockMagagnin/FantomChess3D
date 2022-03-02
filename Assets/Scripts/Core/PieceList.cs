@@ -25,10 +25,15 @@
 	}
 
 	public void RemovePieceAtSquare (int square) {
+		try{
 		int pieceIndex = map[square]; // get the index of this element in the occupiedSquares array
 		occupiedSquares[pieceIndex] = occupiedSquares[numPieces - 1]; // move last element in array to the place of the removed element
 		map[occupiedSquares[pieceIndex]] = pieceIndex; // update map to point to the moved element's new location in the array
 		numPieces--;
+		} catch{
+
+		}
+		
 	}
 
 	public void MovePiece (int startSquare, int targetSquare) {
