@@ -131,10 +131,10 @@
 						Square[castlingRookFromIndex] = Piece.None;
 						Square[castlingRookToIndex] = Piece.Rook | ColourToMove;
 
-						rooks[ColourToMoveIndex].RemovePieceAtSquare (moveTo);
-						rooks[ColourToMoveIndex].RemovePieceAtSquare (moveFrom);
+						//rooks[ColourToMoveIndex].RemovePieceAtSquare (moveTo);
+						//rooks[ColourToMoveIndex].RemovePieceAtSquare (moveFrom);
 
-						//rooks[ColourToMoveIndex].MovePiece (castlingRookFromIndex, castlingRookToIndex);
+						rooks[ColourToMoveIndex].MovePiece (castlingRookFromIndex, castlingRookToIndex);
 
 						//throw new System.Exception();
 

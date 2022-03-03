@@ -15,7 +15,7 @@ namespace Chess.Game
 
         public bool whiteIsBottom = true;
 
-        MeshRenderer[,] squareRenderers;
+        public MeshRenderer[,] squareRenderers;
         public GameObject[,] squarePieceRenderers;
         Move lastMadeMove;
         MoveGenerator moveGenerator;

@@ -53,8 +53,8 @@ namespace Chess.Game
 
         string gameName = "none";
 
-        int count = 274;
-        int champGamesCount = 28;
+        int count = 0;
+        int champGamesCount = 0;
         GameCollection allPgnGames = new GameCollection();
 
         public RecorderController recorder;
