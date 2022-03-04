@@ -62,8 +62,14 @@ namespace Chess.Game
 
         public GameObject boardUIobj;
 
+                public TMPro.TMP_Text textGameName;
+
+
         private void StartRecorder()
         {
+            textGameName.text = "Fantom Chess 3D #" + count;
+
+
             var controllerSettings = ScriptableObject.CreateInstance<RecorderControllerSettings>();
             var TestRecorderController = new RecorderController(controllerSettings);
 
@@ -262,6 +268,7 @@ namespace Chess.Game
             foreach (Game game in xml.game)
             {
                 Debug.Log(count + " playing now " + game.name + "pgn: " + game.pgn );
+
                 StartRecorder();
 
                 restart();
