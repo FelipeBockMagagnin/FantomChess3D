@@ -131,7 +131,7 @@ namespace Chess.Game
             int d10 = Random.Range(0, 10);
 
 
-            if(d10 == 1 && champGamesCount < 55){
+            if(d10 == 1 && champGamesCount < 44){
                 //Jogo campeonato
                 type = 1;
 
