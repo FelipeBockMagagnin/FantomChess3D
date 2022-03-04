@@ -155,7 +155,6 @@ namespace Chess.Game
 
         IEnumerator AnimateMove(Move move, Board board)
         {
-
             float t = 0;
             const float moveAnimDuration = 0.1f;
             Coord startCoord = BoardRepresentation.CoordFromIndex(move.StartSquare);
@@ -211,6 +210,11 @@ namespace Chess.Game
 
         void CreateBoardUI()
         {
+            //foreach(Transform child in this.transform)
+            //{
+            //    DestroyImmediate(child.gameObject);
+            //}
+            Debug.Log("Criando um novo board");
 
             Shader squareShader = Shader.Find("Unlit/Color");
             squareRenderers = new MeshRenderer[8, 8];
@@ -220,12 +224,20 @@ namespace Chess.Game
             {
                 for (int file = 0; file < 8; file++)
                 {
+                    GameObject a = GameObject.Find(BoardRepresentation.SquareNameFromCoordinate(file, rank));
+                    if(a){
+                        DestroyImmediate(a);
+                    }
+                    
                     // Create square
                     Transform square = GameObject.CreatePrimitive(PrimitiveType.Quad).transform;
                     square.parent = transform;
                     square.name = BoardRepresentation.SquareNameFromCoordinate(file, rank);
                     square.position = PositionFromCoord(file, rank, 0);
                     Material squareMaterial = new Material(squareShader);
+
+                    
+
 
                     squareRenderers[file, rank] = square.gameObject.GetComponent<MeshRenderer>();
                     squareRenderers[file, rank].material = squareMaterial;

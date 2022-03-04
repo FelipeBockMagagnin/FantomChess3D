@@ -60,6 +60,8 @@ namespace Chess.Game
         public RecorderController recorder;
         public List<Move> gameMoves;
 
+        public GameObject boardUIobj;
+
         private void StartRecorder()
         {
             var controllerSettings = ScriptableObject.CreateInstance<RecorderControllerSettings>();
@@ -223,11 +225,14 @@ namespace Chess.Game
         }
 
         void restart(){
+
             Debug.Log("restarting");
             boardUI = FindObjectOfType<BoardUI>();
             moveIndex = 0;
             gameMoves = new List<Move>();
             board = new Board();
+
+            
 
             boardUI.changeDefaultSound();
             searchBoard = new Board();
